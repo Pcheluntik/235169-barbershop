@@ -31,7 +31,6 @@ h2 {
   width: 780px;
 }
 
-
 .user-block {
   float: right;
   width: 140px;
@@ -116,7 +115,7 @@ h2 {
 
 .logo-block + ul {
   float: left;
-  width: 540px;
+  width: auto;
 }
 
 .page-title {
@@ -173,7 +172,7 @@ h2 {
   float: left;
   width: 184px;
   clear: left;
-  margin-right: 76px;
+  margin-right: 56px;
 }
 
 .item {
@@ -193,5 +192,5 @@ h2 {
 }
 
 .page-number {
-  float: left;
+  font-size: 14px;
 }
