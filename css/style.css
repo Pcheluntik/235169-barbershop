@@ -20,6 +20,12 @@ h2 {
   font-weight: bold;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .container {
   width: 940px;
   margin: auto;
@@ -125,7 +131,7 @@ h2 {
 }
 
 .breadcrumbs {
-  float: left;
+  width: 100%;
   clear: both;
 }
 
